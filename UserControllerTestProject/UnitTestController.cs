@@ -6,6 +6,11 @@ namespace UserControllerTestProject
         [TestMethod]
         public void TestMethod1()
         {
+            // Arrange
+
+            // Act
+
+            //
         }
     }
 }
